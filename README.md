@@ -17,3 +17,8 @@ To train the VAE model, use the bash command
 ```
 python3 train_VAE.py
 ```
+
+
+## Generated Patches
+
+To listen to some results of the patch generation, please see the [Sounds](./Sounds) folder!
